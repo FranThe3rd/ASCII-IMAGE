@@ -1,4 +1,4 @@
-# ASCII IMage Converter 
+# ASCII Image Converter 
 
 This repository contains a Python script that allows you to generate ASCII art images from PNG and JPEG files. The script utilizes the Python Imaging Library (PIL) to process images and convert them into ASCII representations. Below is a breakdown of the main functions and their functionalities:
 
